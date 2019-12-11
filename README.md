@@ -1,5 +1,5 @@
 # EV-Chargers
-Gas stations outnumber public charging stations by around seven to one.
+ This project examined the infrastructure of Electric Vehicle technology within the US and the lack of expanding that infrastructure into emerging markets and areas of opportunity. The intended outcome was to make an informational tool that examined areas of investment for both electric vehicle sells and the infrastructure that follows.Gas stations outnumber public charging stations by around seven to one.
 It’s no wonder people get so nervous about driving an electric car.
 Numerous studies have shown that consumers steer clear of EVs
 because they worry about the lack of charging stations.
